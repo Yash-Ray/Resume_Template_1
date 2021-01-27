@@ -15,7 +15,7 @@
     height: 1464px;
     min-height: 1464px;
     max-height: 1464px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 .top {
     width: 100%;
@@ -246,7 +246,7 @@ ul {
     font-weight: 700;
 }
 .work-detail {
-    padding: 0px 30px;
+    padding-left: 30px;
 }
 .achievement-head {
     padding-bottom: 10px;
