@@ -1,2 +1,2 @@
-# Resume_Template_1
-This is the 1st Resume-Template for my project: R-Stroke
+# Resume_Templates
+This Repository contains Resume-Templates for my project: R-Stroke
